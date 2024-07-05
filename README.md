@@ -4,5 +4,9 @@ I'm Dyno, i'm an amateur developer passionate about learning new technologies an
 
 ## 💻 I'm Curretly Learning
 
+- JavaScript
+* TypeScript
++ Tailwind css
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,robloxstudio,vscode,ps)](https://skillicons.dev)
