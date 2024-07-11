@@ -7,12 +7,11 @@ I'm Dino, i'm an amateur developer passionate about learning new technologies an
 
 - JavaScript
 - TypeScript
-
-## 💻 I want to learn
-
 - React.js
 - Next.js
 - Tailwind CSS
+
+## 💻 I want to learn
 - Java
 - Lua
 - Node.js
